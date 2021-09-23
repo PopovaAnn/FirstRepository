@@ -1,4 +1,4 @@
-Hello world, Anna
+Hello world, Anna Popova (from master)
 123
 nice to meet you
 bye from user2
