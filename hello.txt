@@ -1,5 +1,5 @@
 Hello world, Anna Popova (from master)
 123
 nice to meet you
-another line from user2
+line from user2
 and this is line for example
