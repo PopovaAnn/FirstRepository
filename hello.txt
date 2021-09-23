@@ -1,6 +1,4 @@
-Goog morning (from branch addfeature1)
-
-Hello world, Anna
+Hello world, Anna Good morning Anna (from addfeature1)
 123
 nice to meet you
 bye from user2
